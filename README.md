@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://camo.githubusercontent.com/f06b864d6c0e18e9b65f51256d82d82457710650a556be1bd6febd6cde6d4ac9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970657363726970742d3030376163633f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d74797065736372697074266c6f676f436f6c6f723d303037616363
+https://camo.githubusercontent.com
 
 <!--
 **Simo-bsc/Simo-bsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
