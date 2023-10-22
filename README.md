@@ -1,14 +1,18 @@
 ### Hi there 👋
 
-https://camo.githubusercontent.com
+Sono un appassionato Jr. Full Stack Web Developer, che predilige il Front-End, con una solida formazione full stack. 
+Ho frequentato un corso intensivo a tempo pieno presso Boolean, mirato a sviluppare le competenze necessarie per affrontare il mondo dello sviluppo web in modo completo. 
+Ho lavorato su vari progetti che hanno arricchito la mia esperienza e sono costantemente affascinato dalle nuove sfide che il mondo dello sviluppo web offre.
+Durante i sei mesi di corso, ho approfondito le mie conoscenze in JAVASCRIPT, VUE.JS, PHP, MySQL, LARAVEL, HTML e CSS. 
 
+Finito questo percorso di formazione sto iniziando a documentarmi e approfondire il Framework REACT, al fine di accedere al mondo Front-End nel modo piu' completo possibile. 
 <!--
 **Simo-bsc/Simo-bsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning REACT
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
