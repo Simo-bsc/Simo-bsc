@@ -6,6 +6,7 @@ Ho lavorato su vari progetti che hanno arricchito la mia esperienza e sono costa
 Durante i sei mesi di corso, ho approfondito le mie conoscenze in JAVASCRIPT, VUE.JS, PHP, MySQL, LARAVEL, HTML e CSS. 
 
 Finito questo percorso di formazione sto iniziando a documentarmi e approfondire il Framework REACT, al fine di accedere al mondo Front-End nel modo piu' completo possibile. 
+Link Linkedin: https://www.linkedin.com/in/simone-buscemi-658b47283/
 <!--
 **Simo-bsc/Simo-bsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
